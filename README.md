@@ -2,7 +2,7 @@
 
 💻 Técnica em Informática | Estudante de Desenvolvimento Full Stack em Python pela EBAC
 📊 Estagiei na área de Licitações Públicas
-🚀 Apaixonada por tecnologia, organizado e desenvolvimento Full Stack
+🚀 Apaixonada por tecnologia, organização e desenvolvimento Full Stack
 
 ---
 
