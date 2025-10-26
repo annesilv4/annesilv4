@@ -17,6 +17,7 @@
 ### 💼 Experiência:
 - Análise de editais e documentação em licitações públicas
 - Controle de notas fiscais e extratos bancários
+- Estou a procura de um trabalho na área de Desenvolvimento Web
 
 ---
 
