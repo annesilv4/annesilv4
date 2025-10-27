@@ -8,7 +8,7 @@
 
 ### 🧠 Atualmente aprendendo:
 - HTML, CSS e JavaScript
-- Boostrap, Tailwind
+- Boostrap e Tailwind
 - Next.js e React
 - Python (Full Stack)
 
@@ -33,7 +33,7 @@
 ---
 
 ### 🌐 Projetos hospedados:
-🔗 [Meu Portfólio na Vercel](https://vercel.com/annesilv4s-projects)  
+🔗 [Meu Portfólio no Vercel](https://vercel.com/annesilv4s-projects)  
 
 ---
 
