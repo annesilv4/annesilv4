@@ -8,7 +8,7 @@
 
 ### 🧠 Atualmente aprendendo:
 - HTML, CSS e JavaScript
-- Boostrap e Tailwind
+- Bootstrap e Tailwind
 - Next.js e React
 - Python (Full Stack)
 
